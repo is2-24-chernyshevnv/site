@@ -1,0 +1,94 @@
+$color_1: black;
+$color_2: white;
+$font-family_1: proxima-nova-extra-condensed,sans-serif;
+
+#header {
+	background: white;
+	width: 100%;
+	height: 100px;
+	width: 1264px;
+}
+#content {
+	background: white;
+	width: 100%;
+	height: 2427px;
+	width: 1264px;
+}
+#footer {
+	background: grey;
+	width: 100%;
+	width: 1264px;
+	height: 220px;
+}
+.picture {
+	height: 100px;
+	width: 200px;
+	position: relative;
+}
+.picture2 {
+	height: 350px;
+	width: 350px;
+	position: relative;
+	margin-left: 50px;
+}
+.picture3 {
+	height: 400px;
+	width: 500px;
+	position: relative;
+	margin-left: 400px;
+}
+.picture4 {
+	position: relative;
+	margin-left: 40px;
+}
+.h1 {
+	color: $color_1;
+	margin-left: 250px;
+	margin-top: -60px;
+	font-size: 25px;
+	font-family: $font-family_1;
+}
+.h2 {
+	color: $color_1;
+	margin-left: 500px;
+	margin-top: -48px;
+	font-size: 25px;
+	font-family: $font-family_1;
+}
+.h3 {
+	color: $color_1;
+	margin-left: 650px;
+	margin-top: -48px;
+	font-size: 25px;
+	font-family: $font-family_1;
+}
+.h4 {
+	color: $color_1;
+	margin-left: 825px;
+	margin-top: -48px;
+	font-size: 25px;
+	font-family: $font-family_1;
+}
+.h5 {
+	color: $color_1;
+	margin-left: 925px;
+	margin-top: -48px;
+	font-size: 25px;
+	font-family: $font-family_1;
+}
+.h6 {
+	color: $color_1;
+	margin-left: 1060px;
+	margin-top: -48px;
+	font-size: 25px;
+	font-family: $font-family_1;
+}
+.video {
+	height: 300px;
+	width: 500px;
+}
+.name {
+	color: $color_2;
+}
+
+
